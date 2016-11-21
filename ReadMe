@@ -1,0 +1,7 @@
+This contains the code for Stereo Calibration and the Results
+
+1) A sample of files used for calibration are available in the "Files used for calibration/" folder
+2) The results of the program are available in the "Results/" folder.
+3) To run the program maintain the folder strucure and run the "main.cpp"
+4) you might need to edit the "stereo_calib.xml" file in the "/build/Debug" folder to change the images for the calibration. 
+5) Using more images for calibration, with different positions for the checkerboard should give better results. 
